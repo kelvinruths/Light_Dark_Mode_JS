@@ -1,2 +1,2 @@
-# Funda-oBradesco_JS_HTML_CSS
-Repositório destinado a aplicação prática das aulas de programação da fundação bradesco
+# Light or Dark Mode JS
+Repository intended to represent a Light or Dark Mode themed button
